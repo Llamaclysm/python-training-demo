@@ -1,5 +1,10 @@
 from math import *
 
-my_number = 5
-print(10 * my_number)
+print("round down")
+print(floor(3.7))
+print("- - - - - - - - - - - - - - -")
+print("round up")
+print(ceil(3.7))
+print("- - - - - - - - - - - - - - -")
+print(sqrt(36))
 print("- - - - - - - - - - - - - - -")
